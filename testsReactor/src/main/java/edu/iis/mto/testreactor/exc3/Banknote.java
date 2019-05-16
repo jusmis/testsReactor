@@ -41,3 +41,4 @@ public enum Banknote {
                      .collect(Collectors.toList());
     }
 }
+
